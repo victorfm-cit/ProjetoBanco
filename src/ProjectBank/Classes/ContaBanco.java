@@ -1,4 +1,4 @@
-package ProjectBank;
+package ProjectBank.Classes;
 
 public class ContaBanco {
     public int numConta;

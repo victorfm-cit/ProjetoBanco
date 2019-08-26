@@ -1,6 +1,8 @@
 package ProjectBank;
 
-public class Aula05 {
+import ProjectBank.Classes.ContaBanco;
+
+public class Application {
     public static void main(String[] args) {
     ContaBanco pessoa1 = new ContaBanco(100, true);
     pessoa1.setNumConta(1111);
